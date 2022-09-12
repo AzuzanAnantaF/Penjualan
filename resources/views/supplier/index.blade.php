@@ -29,7 +29,7 @@
     <tbody>
         <tr>
             <td>1</td>
-            <td>Jojon Variasi</td>
+            <td>Rcb</td>
             <td>088881003324</td>
             <td>Banjarsari Buduran Sidoarjo</td>
             <td>

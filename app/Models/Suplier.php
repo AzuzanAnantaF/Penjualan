@@ -8,4 +8,10 @@ use Illuminate\Database\Eloquent\Model;
 class Suplier extends Model
 {
     use HasFactory;
+
+    protected $table = 'suplier';
+    
+    protected $guarded = [];
+    
+    
 }
